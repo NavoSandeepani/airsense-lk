@@ -1,0 +1,12 @@
+﻿requests
+pandas
+schedule
+sqlalchemy
+python-dotenv
+xgboost==2.0.3
+mlflow
+scikit-learn
+fastapi
+uvicorn
+pydantic
+streamlit
