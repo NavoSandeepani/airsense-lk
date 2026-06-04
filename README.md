@@ -357,3 +357,17 @@ Built with ❤️ for Sri Lanka 🇱🇰
 <br>
 <sub>XGBoost · MLflow · FastAPI · Docker · Streamlit · GitHub Actions · Evidently AI</sub>
 </div>
+
+## Docker Deployment
+
+Pull image:
+
+```bash
+docker pull navodya2001/airsense-lk:latest
+```
+
+Run container:
+
+```bash
+docker run -p 8000:8000 navodya2001/airsense-lk:latest
+```
